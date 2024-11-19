@@ -1,6 +1,6 @@
 #mainCont {
   display: flex;
-  justify-content: end;
+  justify-content: center; /* Change krna he */
   align-items: center;
   background-color: transparent;
   padding: 50px 54px;
