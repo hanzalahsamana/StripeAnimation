@@ -1,6 +1,6 @@
 #mainCont {
   display: flex;
-  justify-content: center; /* Change krna he */
+  justify-content: center; 
   align-items: center;
   background-color: transparent;
   padding: 50px 54px;
@@ -8,7 +8,6 @@
 
 #mainCont .container {
   position: relative;
-  /*margin: auto;*/
   transform: scale(1.2);
 }
 
