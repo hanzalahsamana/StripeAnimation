@@ -1,6 +1,6 @@
 #mainCont {
   display: flex;
-  justify-content: center; 
+  justify-content: center;
   align-items: center;
   background-color: transparent;
   padding: 50px 54px;
@@ -64,8 +64,6 @@
   border-right: none;
   border-bottom: none;
 }
-
-
 
 #mainCont .grid {
   display: grid;
